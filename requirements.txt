@@ -1,1 +1,3 @@
-# Add your third-party Python libraries here
+# third-party Python libraries
+!pip install geopandas
+!pip install psycopg2-binary
